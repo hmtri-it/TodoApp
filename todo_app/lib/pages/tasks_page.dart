@@ -14,7 +14,7 @@ class Task {
 final List<Task> _taskList = [
   new Task("Have coffe and Breakfast", false),
   new Task("Meet with MyTeam", false),
-  new Task("Have lunch Take a nap", false),
+  new Task("Have lunch and Take a nap", false),
   new Task("Fix Bug customer", false),
   new Task("Edit API documentation", true),
   new Task("Learning English  at English Tow.", true)
