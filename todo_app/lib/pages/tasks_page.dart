@@ -12,12 +12,12 @@ class Task {
 }
 
 final List<Task> _taskList = [
-  new Task("Call Tom about appointment", false),
-  new Task("Fix on boarding experience", false),
-  new Task("Edit API document", false),
-  new Task("Set up user focus group", false),
-  new Task("Have a coffee with Sam", true),
-  new Task("Meet with Sales.", true)
+  new Task("Have coffe and Breakfast", false),
+  new Task("Meet with MyTeam", false),
+  new Task("Have lunch Take a nap", false),
+  new Task("Fix Bug customer", false),
+  new Task("Edit API documentation", true),
+  new Task("Learning English  at English Tow.", true)
 ];
 
 class _TaskPageState extends State<TaskPage> {

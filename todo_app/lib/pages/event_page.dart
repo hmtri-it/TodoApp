@@ -15,12 +15,12 @@ class Event {
 }
 
 final List<Event> _eventList = [
-  new Event("08:00", "Have coffe with Sam", "Personal", true),
-  new Event("10:00", "Meet with sales", "Work", true),
-  new Event("12:00", "Call Tom about appointment", "Work", true),
-  new Event("14:00", "Fix onboarding experience", "Work", false),
+  new Event("08:00", "Have coffe and Breakfast", "Personal", true),
+  new Event("10:00", "Meet with MyTeam", "Work", true),
+  new Event("12:00", "Have lunch and Take a nap", "Personal", true),
+  new Event("14:00", "Fix Bug customer", "Work", false),
   new Event("16:00", "Edit API documentation", "Work", false),
-  new Event("18:00", "Go to at Home", "Personal", false),
+  new Event("18:00", "Learning English  at English Tow", "Personal", false),
 ];
 
 class _EventPageState extends State<EventPage> {

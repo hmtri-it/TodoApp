@@ -25,9 +25,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Screens
-- ### Tasks screen: ![Home](https://github.com/hmtri-it/TodoApp/blob/master/screens/Screenshot_1563886893.png)
+- ### Tasks screen: ![Home](https://github.com/hmtri-it/TodoApp/blob/master/screens/Screenshot_1563902525.png)
 
-- ### Events screen: ![Home](https://github.com/hmtri-it/TodoApp/blob/master/screens/Screenshot_1563900887.png)
+- ### Events screen: ![Home](https://github.com/hmtri-it/TodoApp/blob/master/screens/Screenshot_1563902672.png)
 
 
 
